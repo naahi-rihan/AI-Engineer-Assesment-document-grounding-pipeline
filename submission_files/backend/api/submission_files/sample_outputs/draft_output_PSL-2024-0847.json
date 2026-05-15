@@ -1,0 +1,27 @@
+{
+  "draft_text": "INTERNAL MEMORANDUM\nClient: Wyatt Industries, Inc. | Case ID: PSL-2024-0847\nAssigned Attorney: Harvey Specter\n\n---\n\nMATTER OVERVIEW\n\nThis memo summarises the key facts, contractual provisions, and financial exposure in Wyatt Industries, Inc. v. Norwood Consulting Group, LLC, arising from a $4,200,000 Master Services Agreement (MSA) executed January 15, 2022. [PASSAGE 1]\n\nPERFORMANCE FAILURES AND TERMINATION\n\nNorwood's client satisfaction scores fell below the contractually required 80% threshold in two consecutive quarters: Q2 2022 (71%) and Q3 2022 (68%). [PASSAGE 2] Under Section 4.2 of the MSA, two consecutive quarters below threshold constitutes a material breach. [PASSAGE 3] Wyatt issued a formal underperformance notice on August 19, 2022, and subsequently invoked Section 7.1 to terminate the agreement on October 12, 2022. [PASSAGE 2]\n\nNorwood disputed the termination on October 14, 2022, alleging the satisfaction scores were manipulated. A mediation attempt on November 5, 2022 failed. Wyatt filed suit in NY Supreme Court on January 8, 2024. [PASSAGE 2]\n\nFINANCIAL EXPOSURE\n\nBased on the financial summary in the case file: [PASSAGE 4]\n- Total fees paid to Norwood through termination: $1,847,000\n- Wyatt's disputed refund claim: $920,000\n- Norwood's wrongful termination counterclaim: $2,353,000\n\nNOTE ON LIABILITY CAP: Section 9.3 caps aggregate liability at total fees paid in the six months preceding the claim. [PASSAGE 3] As noted in file annotations, the $1,847,000 total paid likely caps Norwood's $2,353,000 counterclaim. This analysis should be confirmed as a priority action item.\n\nUNCLEARNESS FLAGS\n\nPage 2 of the source document contains a partially illegible scan (~4 lines). The initial phase delivery details from April 3, 2022 are only partially recoverable. This gap does not affect the core chronology but should be noted if Page 2 content becomes relevant at hearing.\n\nSOURCES\n\n- PASSAGE 1: sample_01_contract_dispute.txt / chunk 0 (score: 0.4821)\n- PASSAGE 2: sample_01_contract_dispute.txt / chunk 2 (score: 0.4103)\n- PASSAGE 3: sample_01_contract_dispute.txt / chunk 3 (score: 0.3897)\n- PASSAGE 4: sample_01_contract_dispute.txt / chunk 4 (score: 0.3541)\n",
+  "draft_type": "Internal Case Fact Summary Memo",
+  "sources_used": [
+    {"passage": 1, "source": "sample_01_contract_dispute.txt", "chunk_id": 0, "score": 0.4821},
+    {"passage": 2, "source": "sample_01_contract_dispute.txt", "chunk_id": 2, "score": 0.4103},
+    {"passage": 3, "source": "sample_01_contract_dispute.txt", "chunk_id": 3, "score": 0.3897},
+    {"passage": 4, "source": "sample_01_contract_dispute.txt", "chunk_id": 4, "score": 0.3541}
+  ],
+  "metadata": {
+    "source_file": "sample_01_contract_dispute.txt",
+    "case_id": "PSL-2024-0847",
+    "matter": "Wyatt Industries v. Norwood Consulting Group",
+    "date_filed": "March 14, 2024",
+    "attorney": "Harvey Specter",
+    "client": "Wyatt Industries, Inc. (Plaintiff)",
+    "opposing_party": "Norwood Consulting Group, LLC (Defendant)",
+    "status": "Active litigation. Next hearing: June 2, 2024.",
+    "financial_figures": ["$4,200,000", "$1,847,000", "$920,000", "$2,353,000", "$1.8M"],
+    "dates_mentioned": ["January 15, 2022", "April 3, 2022", "August 19, 2022", "October 12, 2022"],
+    "word_count": 612,
+    "has_unclear_sections": true
+  },
+  "model": "claude-sonnet-4-20250514",
+  "input_tokens": 1847,
+  "output_tokens": 423
+}

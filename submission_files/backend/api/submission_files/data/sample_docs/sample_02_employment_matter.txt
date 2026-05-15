@@ -1,0 +1,95 @@
+PEARSON SPECTER LITT — INTERNAL CASE FILE
+Case ID: PSL-2024-1102
+Matter: Chen v. Brightside Financial Partners LP
+Date Filed: June 3, 2024
+Assigned Attorney: Jessica Pearson
+Associate: Mike Ross
+
+--- PAGE 1 ---
+
+MATTER SUMMARY
+
+Client: Dr. Linda Chen (Plaintiff / Claimant)
+Opposing Party: Brightside Financial Partners LP
+
+Dr. Chen was employed as Managing Director of Research Analytics at Brightside 
+Financial Partners from March 2019 to February 2024. She was terminated on 
+February 28, 2024, with 4 weeks severance pay.
+
+Dr. Chen alleges: (1) wrongful termination in retaliation for internal whistleblower 
+complaint; (2) gender discrimination under Title VII and NY HRL; (3) breach of 
+implied employment contract.
+
+--- PAGE 2 ---
+
+EMPLOYMENT HISTORY
+
+Hire Date: March 11, 2019
+Title at Hire: Senior Research Analyst
+Promoted to: Director of Analytics, January 2021
+Promoted to: Managing Director, July 2022
+Annual Compensation at Termination: $285,000 base + 40% target bonus
+Last Bonus Received: $94,000 (FY2022)
+FY2023 Bonus: Denied. Reason given by Brightside: "performance concerns"
+
+--- PAGE 3 (LOW QUALITY SCAN) ---
+
+WHISTLEBLOWER COMPLAINT DETAILS
+
+Dr. Chen filed an internal HR complaint on Nov[ember] 4, 2023 alleging that 
+[her supervisor?] Daniel Harrow, Managing Partner, had direct[ed] analysts to 
+[alter? adjust?] research reports to align with existing [fund positions?]...
+...complaint was forwarded to compliance on November 9, 2023.
+...no action taken as of [date illegible]...
+...termination notice delivered February 28, 2024.
+
+Note: Timeline between complaint (Nov 4) and termination (Feb 28) = 116 days.
+Potential causal link argument strong.
+
+--- PAGE 4 ---
+
+PERFORMANCE RECORD
+
+Annual Reviews - Summary:
+2019: "Exceeds expectations" — Score 4.6/5
+2020: "Exceeds expectations" — Score 4.7/5  
+2021: "Outstanding" — Score 4.9/5
+2022: "Outstanding" — Score 4.8/5
+2023: "Meets expectations" — Score 3.1/5 [NOTABLE DROP]
+
+Note from Jessica: [margin annotation] "2023 review drop is suspicious — comes 
+AFTER Nov complaint. Who conducted the review? Was it Harrow?"
+
+Disciplinary Record: None prior to 2023. No PIPs issued.
+
+--- PAGE 5 ---
+
+COMPARABLE EMPLOYEES (PRELIMINARY)
+
+Male MDs in same division:
+- R. Torres: 2023 review score 3.0/5 — retained, received bonus of $68,000
+- P. Yamamoto: 2023 review score 2.8/5 — retained, placed on PIP (not terminated)
+
+Female peers:
+- S. Okafor (Director): resigned Nov 2023 citing "hostile environment"
+- Dr. Chen: terminated Feb 2024
+
+--- PAGE 6 ---
+
+KEY CLAIMS AND ESTIMATED DAMAGES
+
+1. Lost wages (back pay, 2 yrs projection): ~$570,000
+2. Lost bonus (FY2023 + projected): ~$190,000
+3. Emotional distress damages (estimated): $150,000 - $500,000
+4. Punitive damages (if gender discrimination proven): up to 3x compensatory
+5. Attorney fees (if successful under Title VII): claimable
+
+Total exposure for Brightside (conservative estimate): $1.2M - $2.8M
+
+NEXT STEPS:
+- EEOC charge filing (required before Title VII suit)
+- Subpoena Harrow's communications Nov-Dec 2023
+- Obtain full list of comparable employees
+- Expert on gender pay/promotion disparities
+
+STATUS: Pre-litigation. EEOC filing target: July 15, 2024

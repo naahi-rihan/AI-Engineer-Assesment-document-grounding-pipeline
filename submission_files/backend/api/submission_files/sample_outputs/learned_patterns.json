@@ -1,0 +1,37 @@
+[
+  {
+    "pattern": "Always include the exact dollar value of the liability cap when mentioned in documents, and flag explicitly whether it applies to counterclaims.",
+    "edit_id": "a3f9c12b44",
+    "draft_type": "Internal Case Fact Summary Memo",
+    "added_at": "2025-05-14T10:22:11+00:00",
+    "use_count": 3
+  },
+  {
+    "pattern": "Lead every memo with client name and case ID on the first line, followed by the assigned attorney.",
+    "edit_id": "a3f9c12b44",
+    "draft_type": "Internal Case Fact Summary Memo",
+    "added_at": "2025-05-14T10:22:11+00:00",
+    "use_count": 3
+  },
+  {
+    "pattern": "When financial figures appear, group them into a dedicated FINANCIAL EXPOSURE section with bullet-point line items rather than embedding them in prose.",
+    "edit_id": "a3f9c12b44",
+    "draft_type": "Internal Case Fact Summary Memo",
+    "added_at": "2025-05-14T10:22:11+00:00",
+    "use_count": 2
+  },
+  {
+    "pattern": "Always flag any partially illegible or unclear scan sections in a dedicated UNCLEARNESS FLAGS section so attorneys know what evidence may need to be re-obtained.",
+    "edit_id": "b81e047fc2",
+    "draft_type": "Internal Case Fact Summary Memo",
+    "added_at": "2025-05-14T11:05:33+00:00",
+    "use_count": 2
+  },
+  {
+    "pattern": "When a timeline of events is present in the source document, reproduce it as a chronological list rather than converting to prose narrative.",
+    "edit_id": "b81e047fc2",
+    "draft_type": "Internal Case Fact Summary Memo",
+    "added_at": "2025-05-14T11:05:33+00:00",
+    "use_count": 1
+  }
+]

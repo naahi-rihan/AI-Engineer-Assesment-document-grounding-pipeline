@@ -1,0 +1,84 @@
+PEARSON SPECTER LITT — INTERNAL CASE FILE
+Case ID: PSL-2024-0847
+Matter: Wyatt Industries v. Norwood Consulting Group
+Date Filed: March 14, 2024
+Assigned Attorney: Harvey Specter
+Paralegal: Rachel Zane
+
+--- PAGE 1 ---
+
+CASE BACKGROUND
+
+Client: Wyatt Industries, Inc. (Plaintiff)
+Opposing Party: Norwood Consulting Group, LLC (Defendant)
+
+Wyatt Industries engaged Norwood Consulting Group under a Master Services Agreement 
+(MSA) dated January 15, 2022. The contract was valued at $4,200,000 over a 36-month 
+engagement period. Services included strategic advisory, operational restructuring, and 
+technology implementation support.
+
+--- PAGE 2 (PARTIALLY ILLEGIBLE - SCAN QUALITY POOR) ---
+
+Norwood deli[vered?] initial ph[ase] report on April 3, 2022... 
+[unclear section - approx 4 lines]
+...client satisfaction metrics were below the contractually stipulated threshold of 80%.
+Wyatt issued formal notice of [under]performance on August 19, 2022.
+
+--- PAGE 3 ---
+
+KEY CONTRACT PROVISIONS
+
+Section 4.2 - Performance Standards:
+Consultant shall maintain a client satisfaction score of no less than 80% as measured 
+by quarterly reviews. Failure to meet this standard for two consecutive quarters shall 
+constitute a material breach.
+
+Section 7.1 - Termination for Cause:
+Client may terminate this Agreement immediately upon written notice if Consultant 
+commits a material breach and fails to cure such breach within 30 days of receiving 
+notice.
+
+Section 9.3 - Liability Cap:
+In no event shall either party's aggregate liability exceed the total fees paid in 
+the six months preceding the claim.
+
+--- PAGE 4 ---
+
+CHRONOLOGY OF EVENTS
+
+Jan 15, 2022   - MSA executed by both parties
+Apr 3, 2022    - Phase 1 deliverable submitted (accepted with reservations)
+Jul 15, 2022   - Q2 satisfaction score: 71% (below threshold)
+Aug 19, 2022   - Formal notice of underperformance issued by Wyatt
+Oct 10, 2022   - Q3 satisfaction score: 68% (below threshold, second consecutive)
+Oct 12, 2022   - Wyatt invokes Section 7.1, issues termination for cause notice
+Oct 14, 2022   - Norwood disputes termination, claims scores were manipulated
+Nov 5, 2022    - Mediation attempt fails
+Jan 8, 2024    - Wyatt files suit in NY Supreme Court
+
+--- PAGE 5 ---
+
+FINANCIAL SUMMARY (HANDWRITTEN NOTE ATTACHED)
+
+Total fees paid to Norwood through termination date: $1,847,000
+Disputed refund claimed by Wyatt: $920,000
+Norwood counterclaim for wrongful termination: $2,353,000
+
+Note from Harvey: [handwriting] "Check if liability cap applies to Norwood's 
+counterclaim — $1.8M total paid means their $2.3M counter is likely barred by 9.3"
+
+--- PAGE 6 ---
+
+SUPPORTING DOCUMENTS IN FILE
+
+1. Master Services Agreement (MSA) — signed copy
+2. Phase 1 Deliverable Report — April 2024
+3. Q2 Satisfaction Survey Results — July 2022
+4. Q3 Satisfaction Survey Results — October 2022
+5. Formal Underperformance Notice — August 19, 2022
+6. Termination Letter — October 12, 2022
+7. Norwood's Dispute Letter — October 14, 2022
+8. Mediation Summary — November 2022
+9. Expert Report on Satisfaction Scoring Methodology (pending)
+
+STATUS: Active litigation. Next hearing: June 2, 2024.
